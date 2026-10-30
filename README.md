@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Soup Kernel Challenge
 
 Make `soup train` faster and lighter on a free Kaggle T4 with your own Triton kernels.
@@ -229,7 +228,3 @@ Data: [AmanMussa/kazakh-instruction-v2](https://huggingface.co/datasets/AmanMuss
 (MIT on its card), a Kazakh translation of [Stanford Alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca)
 (CC BY-NC 4.0); it is downloaded at run time for this benchmark. Model:
 [Qwen/Qwen2.5-1.5B-Instruct](https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct) (Apache-2.0).
-=======
-# hack-bbcaef66-astro
-Hackathon team repository for ASTRO
->>>>>>> 8f1cab50a721fd834480974caf62bc60b5cd63a0
